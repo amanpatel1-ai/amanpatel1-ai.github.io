@@ -1,0 +1,138 @@
+@import url('https://fonts.cdnfonts.com/css/open-sauce-one');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+body{
+	background: black;
+	color: white;
+}
+
+header{
+	font-family: "open-sauce-one", sans-serif;
+	margin-left: 10px;
+}
+
+section{
+	margin-top: 10px;
+}
+.logo{
+	font-size: 4.5em;
+}
+
+main{
+	display: flex;
+	flex-direction: column;
+}
+
+.sub-title{
+	font-size: 1.5em;
+	margin-top: -30px;
+}
+
+.hero-section{
+	align-self: center;
+}
+
+.hero-image{
+	width: 20vw;
+	height: 25vw;
+	margin-left: -50px;
+}
+
+.content{
+	display: flex;
+	gap: 10em;
+	margin-left: 50px;
+	align-items: center;
+}
+
+.hero-paragraph{
+	width: 15em;
+	font-family: "Playfair Display", serif;
+	margin-left: 50px;
+	margin-top:-10px;
+}
+
+.cta{
+	text-decoration: underline;
+	font-size: 0.9em;
+	margin-left: 50px;
+	cursor: pointer;
+}
+
+.sub-content{
+	font-size: 1.5em;
+}
+
+.philosophy{
+	margin-left: 10px;
+	display: flex;
+	flex-direction: column;
+}
+.philosophy h1{
+	font-family: "open-sauce-one", sans-serif;
+	margin-left: 2.4em;
+	width: 20vw;
+	font-size: 2.5em;
+}
+.philosophy p {
+	width: 20em;
+	font-size: 1.2em;
+	align-self: center;
+	font-family: "Playfair Display", serif;
+}
+
+.work{
+	font-size: 2.5em;
+	margin-left: 50px;
+}
+
+.work img{
+	height: 250px;
+	width: 350px;
+	margin-left: 20px;
+}
+
+.aca{
+	display: flex;
+	flex-wrap:wrap ;
+	align-items: center;
+	justify-content: center;
+	padding: 20px;
+}
+
+.about{
+	font-size: 1.5em;
+	width: 10em;
+	font-family: "open-sauce-one", sans-serif;
+	margin-left: 5em;
+}
+
+.onee{
+	font-size: 1.5em;
+	font-family: "Playfair Display", serif;
+	width: 20em;
+	margin-left: 15em;
+}
+
+.touch h1{
+	margin-left: 15px;
+	font-size: 2.5em;
+	font-family: "open-sauce-one", sans-serif;
+}
+
+.main-touch{
+	display: flex;
+	margin-left: 5em;
+	font-size: 1em;
+}
+
+.two1 img{
+	height: 250px;
+	width: 300px;
+	margin-left: 35em;
+}
+.head-para{
+	font-weight: bold;
+	font-size: 1.2em;
+	font-family: "open-sauce-one", sans-serif;
+}
